@@ -22,3 +22,14 @@ application.
 
 ● On the other end, a user can view all the companies or any specified company he/she is 
 interested in.
+
+Process:
+
+Follow the Discussion (PDF) to understand the project flow. Implement the three Java codes in your respective IDE's and connect it to your DB (Here, NoSQL- MongoDB).
+
+Results:
+
+The application consists of a multiple web pages allowing the user to go through all the companies or search for a specific one with a valid company name. When an invalid email address and/or an invalid file is submitted, an error message is displayed. At the same time, the company manager can register and login on behalf of the company and 
+add, delete or update their companies job postings accordingly in the application so that the user can easily access it and apply for the same.
+
+Happy Learning!
